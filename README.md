@@ -4,8 +4,6 @@ def answer_patient_query(query):
 
 model init_granite_model()
 
-# Create prompt for answering patient query
-
 query_prompt = f"""
 
 As a healthcare AI assistant, provide a helpful, accurate, and evidence-based response to the following patient question:
