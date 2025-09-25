@@ -10,8 +10,6 @@ As a healthcare AI assistant, provide a helpful, accurate, and evidence-based re
 
 PATIENT QUESTION: {query}
 
-Provide a clear, empathetic response that:
-
 Directly addresses the question
 
 Includes relevant medical facts
